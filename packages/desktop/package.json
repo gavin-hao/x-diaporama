@@ -1,5 +1,5 @@
 {
-  "name": "power-prezi-desktop",
+  "name": "x-diaporama-desktop",
   "version": "0.0.0",
   "description": "A desktop application base on electron,by this app you can create or preview prezitation",
   "keywords": [
@@ -11,7 +11,7 @@
     "desktop"
   ],
   "author": "Gavin Hao <haozhigang@outlook.com>",
-  "homepage": "https://github.com/gavin-hao/power-prezi#readme",
+  "homepage": "https://github.com/gavin-hao/x-diaporama#readme",
   "license": "Apache-2.0",
   "main": "lib/desktop.js",
   "directories": {
@@ -23,12 +23,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gavin-hao/power-prezi.git"
+    "url": "git+https://github.com/gavin-hao/x-diaporama.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/gavin-hao/power-prezi/issues"
+    "url": "https://github.com/gavin-hao/x-diaporama/issues"
   }
 }

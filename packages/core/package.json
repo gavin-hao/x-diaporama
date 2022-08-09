@@ -1,5 +1,5 @@
 {
-  "name": "power-prezi-core",
+  "name": "x-diaporama-core",
   "version": "0.0.0",
   "description": "PwoerPrezi core lib",
   "keywords": [
@@ -10,7 +10,7 @@
     "scale"
   ],
   "author": "Gavin Hao <haozhigang@outlook.com>",
-  "homepage": "https://github.com/gavin-hao/power-prezi#readme",
+  "homepage": "https://github.com/gavin-hao/x-diaporama#readme",
   "license": "Apache-2.0",
   "main": "lib/power-prezi-core.js",
   "directories": {
@@ -22,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gavin-hao/power-prezi.git"
+    "url": "git+https://github.com/gavin-hao/x-diaporama.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/gavin-hao/power-prezi/issues"
+    "url": "https://github.com/gavin-hao/x-diaporama/issues"
   }
 }
