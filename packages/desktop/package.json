@@ -1,0 +1,34 @@
+{
+  "name": "power-prezi-desktop",
+  "version": "0.0.0",
+  "description": "A desktop application base on electron,by this app you can create or preview prezitation",
+  "keywords": [
+    "vue3",
+    "electron",
+    "mac_os",
+    "windows",
+    "app",
+    "desktop"
+  ],
+  "author": "Gavin Hao <haozhigang@outlook.com>",
+  "homepage": "https://github.com/gavin-hao/power-prezi#readme",
+  "license": "Apache-2.0",
+  "main": "lib/desktop.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavin-hao/power-prezi.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/gavin-hao/power-prezi/issues"
+  }
+}
