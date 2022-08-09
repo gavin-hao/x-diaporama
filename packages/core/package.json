@@ -1,0 +1,33 @@
+{
+  "name": "power-prezi-core",
+  "version": "0.0.0",
+  "description": "PwoerPrezi core lib",
+  "keywords": [
+    "canvas",
+    "html5",
+    "move",
+    "rotate",
+    "scale"
+  ],
+  "author": "Gavin Hao <haozhigang@outlook.com>",
+  "homepage": "https://github.com/gavin-hao/power-prezi#readme",
+  "license": "Apache-2.0",
+  "main": "lib/power-prezi-core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavin-hao/power-prezi.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/gavin-hao/power-prezi/issues"
+  }
+}
